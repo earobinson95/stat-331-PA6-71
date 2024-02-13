@@ -1,5 +1,6 @@
 ---
 title: "Untitled"
+author: "Emily, Ashlyn, Amy"
 format: html
 embed-resources: true
 editor: source
